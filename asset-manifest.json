@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sahil-Personal-Website/static/css/main.78d08703.css",
+    "main.js": "/Sahil-Personal-Website/static/js/main.180f11f2.js",
+    "static/js/453.0bcc720c.chunk.js": "/Sahil-Personal-Website/static/js/453.0bcc720c.chunk.js",
+    "index.html": "/Sahil-Personal-Website/index.html",
+    "main.78d08703.css.map": "/Sahil-Personal-Website/static/css/main.78d08703.css.map",
+    "main.180f11f2.js.map": "/Sahil-Personal-Website/static/js/main.180f11f2.js.map",
+    "453.0bcc720c.chunk.js.map": "/Sahil-Personal-Website/static/js/453.0bcc720c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78d08703.css",
+    "static/js/main.180f11f2.js"
+  ]
+}
