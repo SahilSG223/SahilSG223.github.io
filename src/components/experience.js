@@ -16,7 +16,7 @@ function Experience() {
                 <img src="Guhuza.png" alt="Guhuza logo" style={{ width: 90, height: 'auto', borderRadius: '10px', background: '#f6f8fa', boxShadow: '0 1px 6px rgba(25, 118, 210, 0.08)' }} />
                 <div style={{ textAlign: 'left' }}>
                     <h4 style={{ margin: 0, fontSize: '1.3rem', fontWeight: 700, color: '#22223b' }}>Guhuza - Data Analyst</h4>
-                    <p style={{ margin: '0.7rem 0 0.2rem 0', fontSize: '1.08rem' }}>Designed and executed complex SQL queries within a MySQL database environment to identify, track, and evaluate emerging trends across critical marketing performance metrics.</p>
+                    <p style={{ margin: '0.7rem 0 0.2rem 0', fontSize: '1.08rem' }}>Designed and executed SQL queries within a MySQL database environment to identify, track, and evaluate emerging trends across critical marketing performance metrics.</p>
                     <p style={{ margin: 0, fontSize: '1.08rem' }}>Processed and transformed large-scale datasets using Pandas, then applied Plotly to create a comprehensive dashboard showcasing multiple interactive visualizations for data-driven decision-making.</p>
             </div>
             </div>
